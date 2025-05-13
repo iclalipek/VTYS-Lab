@@ -1,0 +1,41 @@
+﻿@model foy5_OgrenciYonetimSistemi.Models.TOgrenciDer
+
+@{
+    ViewData["Title"] = "Ders Atama";
+}
+
+<h1>Öğrenciye Ders Atama</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="OgrenciId" class="control-label">Öğrenci</label>
+        <select asp-for="OgrenciId" class="form-control" asp-items="ViewBag.OgrenciID"></select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DersId" class="control-label">Ders</label>
+        <select asp-for="DersId" class="form-control" asp-items="ViewBag.DersID"></select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Yil" class="control-label"></label>
+        <input asp-for="Yil" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Yariyil" class="control-label"></label>
+        <input asp-for="Yariyil" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Vize" class="control-label"></label>
+        <input asp-for="Vize" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Final" class="control-label"></label>
+        <input asp-for="Final" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

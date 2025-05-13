@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewData["Title"] = "Ana Sayfa";
+}
+
+<div class="container mt-4">
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+
+        <div class="col">
+            <div class="card text-center h-100 shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Fakülte Ekle</h5>
+                    <p class="card-text">Yeni fakülte bilgisi ekleyin.</p>
+                    <a href="@Url.Action("Create", "TFakulte")" class="btn btn-primary">Git</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card text-center h-100 shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Bölüm Ekle</h5>
+                    <p class="card-text">Yeni bölüm bilgisi ekleyin.</p>
+                    <a href="@Url.Action("Create", "TBolum")" class="btn btn-primary">Git</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card text-center h-100 shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Öğrenci Ekle</h5>
+                    <p class="card-text">Yeni öğrenci bilgisi ekleyin.</p>
+                    <a href="@Url.Action("Create", "TOgrenci")" class="btn btn-primary">Git</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card text-center h-100 shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Öğrenci Sorgula</h5>
+                    <p class="card-text">Mevcut öğrencileri listeleyin.</p>
+                    <a href="@Url.Action("Index", "TOgrenci")" class="btn btn-primary">Git</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card text-center h-100 shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Öğrenci Sorgula (Web Servisi)</h5>
+                    <p class="card-text">Web API üzerinden öğrenci bilgisi alın.</p>
+                    <a href="@Url.Action("OgrenciApi", "TOgrenci")" class="btn btn-primary">Git</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

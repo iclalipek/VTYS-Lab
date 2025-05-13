@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\foy5_OgrenciYonetimSistemi.props" />
+</Project>

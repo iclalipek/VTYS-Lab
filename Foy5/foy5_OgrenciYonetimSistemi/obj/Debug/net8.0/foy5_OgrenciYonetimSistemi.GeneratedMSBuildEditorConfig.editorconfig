@@ -1,0 +1,131 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = foy5_OgrenciYonetimSistemi
+build_property.RootNamespace = foy5_OgrenciYonetimSistemi
+build_property.ProjectDir = C:\Users\USER\source\repos\foy5_OgrenciYonetimSistemi\foy5_OgrenciYonetimSistemi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\USER\source\repos\foy5_OgrenciYonetimSistemi\foy5_OgrenciYonetimSistemi
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TBolum/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvbHVtXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TBolum/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvbHVtXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TBolum/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvbHVtXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TBolum/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvbHVtXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TBolum/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvbHVtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TFakulte/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEZha3VsdGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TFakulte/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEZha3VsdGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TFakulte/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEZha3VsdGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TFakulte/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEZha3VsdGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TFakulte/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEZha3VsdGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TOgrenciDers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE9ncmVuY2lEZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TOgrenciDers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE9ncmVuY2lEZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TOgrenciDers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE9ncmVuY2lEZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TOgrenciDers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE9ncmVuY2lEZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TOgrenciDers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE9ncmVuY2lEZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TOgrenci/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE9ncmVuY2lcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TOgrenci/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE9ncmVuY2lcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TOgrenci/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE9ncmVuY2lcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TOgrenci/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE9ncmVuY2lcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Views/TOgrenci/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE9ncmVuY2lcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/source/repos/foy5_OgrenciYonetimSistemi/foy5_OgrenciYonetimSistemi/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gy7p9mr9ga
