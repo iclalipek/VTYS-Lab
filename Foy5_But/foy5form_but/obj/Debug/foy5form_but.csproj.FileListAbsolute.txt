@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\butunleme\foy5form_but\foy5form_but\bin\Debug\foy5form_but.exe.config
+C:\Users\USER\Desktop\butunleme\foy5form_but\foy5form_but\bin\Debug\foy5form_but.exe
+C:\Users\USER\Desktop\butunleme\foy5form_but\foy5form_but\bin\Debug\foy5form_but.pdb
+C:\Users\USER\Desktop\butunleme\foy5form_but\foy5form_but\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\butunleme\foy5form_but\foy5form_but\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\butunleme\foy5form_but\foy5form_but\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\butunleme\foy5form_but\foy5form_but\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\butunleme\foy5form_but\foy5form_but\obj\Debug\foy5form_but.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\butunleme\foy5form_but\foy5form_but\obj\Debug\foy5form_but.Properties.Resources.resources
+C:\Users\USER\Desktop\butunleme\foy5form_but\foy5form_but\obj\Debug\foy5form_but.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\butunleme\foy5form_but\foy5form_but\obj\Debug\foy5form_but.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\butunleme\foy5form_but\foy5form_but\obj\Debug\foy5form.E322A154.Up2Date
+C:\Users\USER\Desktop\butunleme\foy5form_but\foy5form_but\obj\Debug\foy5form_but.exe
+C:\Users\USER\Desktop\butunleme\foy5form_but\foy5form_but\obj\Debug\foy5form_but.pdb
+C:\Users\USER\Desktop\butunleme\foy5form_but\foy5form_but\obj\Debug\foy5form_but.Migrations.Kurulum.resources
+C:\Users\USER\Desktop\butunleme\foy5form_but\foy5form_but\obj\Debug\foy5form_but.Form1.resources
